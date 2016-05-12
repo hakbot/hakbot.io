@@ -8,7 +8,7 @@
 
 <div id="wrapper" style="width:100%; text-align:center">
   <img src="images/hakbot-logo-250x250.png"/>
-  <p>Launching soon...f</p>
+  <p>Launching soon...</p>
 </div>
 
 </body>
